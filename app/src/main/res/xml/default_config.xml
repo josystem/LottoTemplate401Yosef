@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>IS_WEBVIEW</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>SHOW_SPLASH</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>APP_MODE</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>URL_0</key>
+        <value>https://public.3.basecamp.com/p/eya14JqXpfjX7nYw1kZunCwQ</value>
+    </entry>
+    <entry>
+        <key>URL_1</key>
+        <value>https://www.google.com</value>
+    </entry>
+    <entry>
+        <key>SHOW_ADS</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814066712916",
+    "project_id": "lotto-template-4-0-1-yos-ecea5",
+    "storage_bucket": "lotto-template-4-0-1-yos-ecea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814066712916:android:eed87cebb3b8c957b008c1",
+        "android_client_info": {
+          "package_name": "com.coinsimkia.phunpapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814066712916-kuakhqg287kv4icluhga64n2pjcqke3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPgcpsP29k6M0aVnfjgKdUzm5Tbf1WKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814066712916-kuakhqg287kv4icluhga64n2pjcqke3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
