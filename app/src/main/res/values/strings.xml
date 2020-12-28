@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Lotto Template 4.0.1 Yosef</string>
     <string name="facebook_app_id">Facebook App ID</string>
+    <string name="loading">Loading...</string>
+    <string name="retrying">Retrying...</string>
 </resources>
